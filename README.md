@@ -16,6 +16,6 @@ Supports 4 core features: Authentication, Post Creation, User Following, and Act
 # Instructions for app running
 
 <ul>
-  <li>Before starting the application, you must start the local server in terminal (located in "Server" folder).</li>
+  <li>Before starting the application, you must start the local server from terminal (located in "Server" folder).</li>
   <li>Login and password for authorization in the app: <b>user</b> / <b>qwerty</b></li>
 </ul>
